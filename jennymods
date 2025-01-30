@@ -1,0 +1,162 @@
+{
+  "appRedirect": {
+    "status": false,
+    "redirectURL": "http://www.amazon.com/gp/mas/dl/android?p=com.adobe.air"
+  },
+
+  "AdsController": {
+    
+    "README": "To run ads for each network, enter one of the following: 'admob', 'applovin', or 'hws'.",
+    
+    "AdInterval": 1,
+    
+    "BannerNetwork"      : "hws",
+    "InterstitialNetwork": "hws",
+    "RewardNetwork"      : "hws",
+    
+    "AdPlacement": {
+      
+      "AdMobBanner": "ca-app-pub-3940256099942544/630097811112",
+      "AdMobInterstitialAd": "ca-app-pub-3940256099942544/103317371213",
+      "AdMobRewardAd": "ca-app-pub-3940256099942544/522435491755",
+      
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitialAd": "98f6a586ed642919",
+      "ApplovinRewardAd": "98f6a586ed642919",
+      
+      "HuaweiBanner": "testw6vs28auh355",
+      "HuaweiInterstitialAd": "testb4znbuh3n255",
+      "HuaweiRewardAd": "testx9dtjwj8hpggg"
+    }
+  },
+  
+  "MinecraftData": {
+    "Addons": [
+      {
+        "title": "Addon: Pokédrock 1 (Pokemon part 1)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part1.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Welcome to the world of Pokédrock! This addon have a combat system, mounts and real evolutions!",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img.jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img%20(3).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img%20(7).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%201%20/screen-img%20(8).jpeg"
+        ]
+      },
+          {
+        "title": "Addon: Pokédrock 2 (Pokemon part 2)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part2.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(3).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(4).jpeg"
+
+        ]
+      },
+           {
+        "title": "Addon: Pokédrock 3 (Pokemon part 3)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part3.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Welcome to the Third generation of Pokédrock! This addon is compatible with the first and second generation addons.",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%203%20(Pokemon%20part%203)/screen-img.jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%203%20(Pokemon%20part%203)/screen-img%20(1).jpeg"
+        ]
+      },
+           {
+        "title": "Addon: Pixelmon Bedrock",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemon-addon-V1.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Did you want a Pokemon with the same quality as the Pixelmon Mod in Java Edition? For you, Pixelmon has come to Bedrock Edition. Raise a Pokémon with great quality! Meet and catch various Pokémon in the wild, and stay together!",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img.jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(3).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(4).jpeg"
+        ]
+      },
+               {
+        "title": "Pokémon Addon (1.18+,1.20+,1.21+)",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/Pixelmon-Bedrock-Addon.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "The Pixelmon addon for Minecraft PE is truly something else! What makes the Minecraft Pixelmon addon mods so good is the functionality. There is much more than mere visual appeal here. Fans of pokemon can now enjoy the thrill of their favorite game and anime series with this Pixelmon updated, also known as the Pixelmon Addon Minecraft Bedrock edition. Even players who are unfamiliar with the magical world of Pokemon are bound to enjoy the hours of unfiltered joy with the Pixelmon addon for Minecraft. What exactly is it and how does it work? Let's have a look, shall we?
+",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img.jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img%20(3).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img%20(4).jpeg"
+        ]
+      },
+               {
+        "title": "Pokemon Morph Addon Addon",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemonaddon1.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Pokemon addon for minecraft bedrock that adds 4 pokemon that stays by your side to walk with you through the world of minecraft and has pokemon..",
+        "preview": [
+          "https://api.mcpedl.com/storage/submissions/84224/100/fsafasfsafasfasff_1-520x245.png"
+        ]
+      },
+               {
+        "title": "Craftmon Legacy A Pokemon Addon",
+        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/craftmon-legacy-v0_6.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Craftmon Legacy Addon will add Pokemon, Pokemon Trainers and Pokemon Battle to Minecraft Bedrock.",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img.jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(6).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(4).jpeg"
+
+        ]
+      }
+    ]
+  },
+  
+  "AppsPromote": {
+    "status": false,
+    "apps": [
+      {
+        "name": "Minecraft PE skyblock",
+        "packageName": "com.adobe.air",
+        "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+        "download": "+100 K"
+      },
+      {
+        "name": "Houses Maps",
+        "packageName": "com.andiqwer.house_maps",
+        "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+        "download": "+500 K"
+      },
+      {
+        "name": "Guns Mods",
+        "packageName": "com.AndiQwer.GunMods",
+        "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+        "download": "+1 Million"
+      },
+      {
+        "name": "Cars Mods",
+        "packageName": "com.andiqwer.car_mods",
+        "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+        "download": "+50 Million"
+      }
+    ]
+  }
+}
