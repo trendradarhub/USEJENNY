@@ -113,11 +113,11 @@
         "coins": 0,
         "description": "Did you want a Pokemon with the same quality as the Pixelmon Mod in Java Edition? For you, Pixelmon has come to Bedrock Edition. Raise a Pokémon with great quality! Meet and catch various Pokémon in the wild, and stay together!",
         "preview": [
-          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img.jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(1).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(2).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(3).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(4).jpeg"
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen1.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen2.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen3.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen4.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen5.jpeg"
         ]
       },
                {
@@ -152,11 +152,10 @@
         "coins": 0,
         "description": "Craftmon Legacy Addon will add Pokemon, Pokemon Trainers and Pokemon Battle to Minecraft Bedrock.",
         "preview": [
-          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img.jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(6).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(1).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(2).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(4).jpeg"
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen3.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen4.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen5.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Free/screen6.jpeg"
 
         ]
       }
