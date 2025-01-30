@@ -62,6 +62,34 @@
 
         ]
       },
+    {
+        "title": "Jenny Addon Remake : All Version (Resource Pack)",
+        "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Jenny-Addon-MCPE-Behavior-1.20.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(3).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(4).jpeg"
+
+        ]
+      },
+    {
+        "title": "Jenny Addon Remake : All Version(Behavior Pack)",
+        "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Jenny-Addon-MCPE-Behavior-1.20.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
+        "preview": [
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(1).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(2).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(3).jpeg",
+          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(4).jpeg"
+
+        ]
+      },
            {
         "title": "Lively Villagers Addon : 1.19+",
         "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Lively-Villagers-Addon-MCPE-1.19.zip",
@@ -114,7 +142,7 @@
       },
                {
         "title": "Jenny & Allie Addon (1.19+)",
-        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/craftmon-legacy-v0_6.zip",
+        "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Jenny-Addon-MCPE-Allie-1.19.zip",
         "isLocked": false,
         "coins": 0,
         "description": "Craftmon Legacy Addon will add Pokemon, Pokemon Trainers and Pokemon Battle to Minecraft Bedrock.",
