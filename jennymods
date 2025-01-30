@@ -167,6 +167,20 @@
 
         ]
       }
+           {
+        "title": "Allie Addon (1.20+)",
+        "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Allie-Addon-MCPE-1.20.zip",
+        "isLocked": false,
+        "coins": 0,
+        "description": "Allie Addon (1.20, 1.19) addon is a modification for MCPE/Bedrock that adds virtual companions to the game. This mod adds a mob called Allie that can fly and walk through walls like a ghost.",
+        "preview": [
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Allie%20Addon/screen2.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Allie%20Addon/screen3.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Allie%20Addon/screen4.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Allie%20Addon/screen5.jpeg"
+
+        ]
+      }
     ]
   },
   
