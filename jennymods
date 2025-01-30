@@ -69,10 +69,13 @@
         "coins": 0,
         "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
         "preview": [
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(1).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(2).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(3).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(4).jpeg"
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen1.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen2.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen3.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen4.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen5.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen6.jpg"
+
 
         ]
       },
@@ -83,10 +86,12 @@
         "coins": 0,
         "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
         "preview": [
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(1).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(2).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(3).jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(4).jpeg"
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen1.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen2.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen3.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen4.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen5.jpg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Jenny%20Addon%20Remake/screen6.jpg"
 
         ]
       },
