@@ -100,10 +100,13 @@
         "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Lively-Villagers-Addon-MCPE-1.19.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Welcome to the Third generation of Pokédrock! This addon is compatible with the first and second generation addons.",
+        "description": "Have you ever wanted villagers to look a little more... human? Personally, I haven't. But playing on a world alone can get a little boring at times, so this addon aims to spice that up a bit. Inspired by the Minecrafts Comes Alive mod for Java edition, this addon replaces villagers with randomized humanoid villagers that are more fun to interact with.",
         "preview": [
-          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%203%20(Pokemon%20part%203)/screen-img.jpeg",
-          "https://www.mcpedl.life/files/mods/Poke/Poke%CC%81drock%203%20(Pokemon%20part%203)/screen-img%20(1).jpeg"
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Lively%20Villagers/scn1.jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Lively%20Villagers/screen-img-adoonformcpe%20(1).jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Lively%20Villagers/screen-img-adoonformcpe%20(2).jpeg",
+          "https://raw.githubusercontent.com/trendradarhub/USEJENNY/refs/heads/main/addon/Lively%20Villagers/screen-img-adoonformcpe%20(3).jpeg"
+
         ]
       },
            {
