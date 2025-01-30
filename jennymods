@@ -34,8 +34,8 @@
   "MinecraftData": {
     "Addons": [
       {
-        "title": "Addon: Pokédrock 1 (Pokemon part 1)",
-        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part1.zip",
+        "title": "Jenny Addon : 1.19,1.21+(Resource Pack)",
+        "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Jenny-Addon-MCPE-Resource-1.20.zip",
         "isLocked": false,
         "coins": 0,
         "description": "Welcome to the world of Pokédrock! This addon have a combat system, mounts and real evolutions!",
@@ -49,8 +49,8 @@
         ]
       },
           {
-        "title": "Addon: Pokédrock 2 (Pokemon part 2)",
-        "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part2.zip",
+        "title": "Jenny Addon : 1.19,1.21+(Behavior Pack)",
+        "addonLink": "https://github.com/trendradarhub/USEJENNY/raw/refs/heads/main/addon/Jenny-Addon-MCPE-Behavior-1.20.zip",
         "isLocked": false,
         "coins": 0,
         "description": "This is the Second generation of Pokédrock! This addon works as a complement for the first generation (SERP Pokédrock 1) and (third generation 3) ! although it is also designed to work on its own!",
